@@ -21,4 +21,4 @@ O layolt foi desenvolvido em Figma
 
 ---
 
-Feito com ♥ by Luós César :wave:
+Feito com ♥ by Luís César :wave:
